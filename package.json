@@ -1,0 +1,12 @@
+{
+  "name": "my-vue-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "bin/cli.js",
+  "repository": "https://github.com/T-Roc/my-vue-cli.git",
+  "author": "T-Roc <18365206692@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "commander": "^7.2.0"
+  }
+}
